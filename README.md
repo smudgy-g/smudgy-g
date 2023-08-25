@@ -21,7 +21,8 @@ I have a deep love for coding and creating solutions for businesses and individu
 
 ### 🔭 Check out some projects I've contributed to
 [kiosk inventory management](https://www.youtube.com/watch?v=sVBb7eZE4bQ)
-[lendify ](https://youtu.be/W_KehMxHvPM)
+
+[lendify](https://youtu.be/W_KehMxHvPM)
 
 🤙 Get in touch with me if you would like to hire or collaborate with me
 
