@@ -6,21 +6,22 @@ I have a deep love for coding and creating solutions for businesses and individu
 
 ### 🚀 Current technologies I'm using
 
-React.js, Redux, Node.js, Typescript, GraphQL, MongoDB, PostgreSQL, Nest.js
+**FRONT END**
+* React.js
+* Redux 
+* Typescript
+* Tailwind CSS
 
-🚀 I enjoy breaking down hard concepts into simple tiny bits, in order to bring multidisciplinary teams together
 
-🚨 Pros: I can explain what the hell the event loop is
+**BACK END**
+* Node.js
+* MongoDB
+* PostgreSQL
+* ORMs - Prisma & Mongoose
 
+### 🔭 Check out some projects I've contributed to
+[kiosk inventory management](https://www.youtube.com/watch?v=sVBb7eZE4bQ)
+[lendify ](https://youtu.be/W_KehMxHvPM)
 
+🤙 Get in touch with me if you would like to hire or collaborate with me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
