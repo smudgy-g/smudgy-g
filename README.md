@@ -1,7 +1,18 @@
-### Hi there 👋
+## Adam Griffiths 
+### G'day! 🖖
 
-<!--
-**smudgy-g/smudgy-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **full stack software engineer** born and raised in Australia 🇦🇺 and living in Berlin 🇩🇪
+I have a deep love for coding and creating solutions for businesses and individuals
+
+### 🚀 Current technologies I'm using
+
+React.js, Redux, Node.js, Typescript, GraphQL, MongoDB, PostgreSQL, Nest.js
+
+🚀 I enjoy breaking down hard concepts into simple tiny bits, in order to bring multidisciplinary teams together
+
+🚨 Pros: I can explain what the hell the event loop is
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
