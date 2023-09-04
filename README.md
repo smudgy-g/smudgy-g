@@ -26,10 +26,10 @@ I enjoy the journey of software development and the continuous learning of new t
 * ORMs - Prisma & Mongoose
 
 ### 🔭 Check out some projects I've contributed to
-[kiosk inventory management](https://www.youtube.com/watch?v=sVBb7eZE4bQ)
+[kiosk inventory management](https://warm-biscochitos-618c98.netlify.app)
 
-[lendify](https://youtu.be/W_KehMxHvPM)
+[lendify](https://grand-tapioca-07d51d.netlify.app/)
 
-[Medusa](https://www.youtube.com/watch?v=urVdNdaAzzk)
+[Medusa](https://64f1a2f3c1b6bb42dab99971--golden-basbousa-7bd2a4.netlify.app/)
 
 🤙 Get in touch with me if you would like to hire or collaborate with me.
