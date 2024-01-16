@@ -12,6 +12,7 @@ I enjoy the journey of software development and the continuous learning of new t
 
 **FRONT END**
 * React.js
+* Next.js
 * Redux 
 * Typescript
 * Tailwind CSS
@@ -26,6 +27,7 @@ I enjoy the journey of software development and the continuous learning of new t
 * ORMs - Prisma & Mongoose
 
 ### 🔭 Check out some projects I've contributed to
+[exhibit - social media platform](https://exhibit-one.vercel.app/)
 [kiosk inventory management](https://warm-biscochitos-618c98.netlify.app)
 
 [lendify](https://grand-tapioca-07d51d.netlify.app/)
